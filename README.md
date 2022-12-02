@@ -10,6 +10,6 @@ and I need some basics, sooo..
 I try to understand git and github and I think I learn some things?
 
 ## yeet
-[useful advised](https://youtu.be/dQw4w9WgXcQ)
+[useful advise](https://youtu.be/dQw4w9WgXcQ)
 you're welcome, tho
 ♡

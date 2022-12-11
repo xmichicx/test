@@ -16,3 +16,4 @@ you're welcome, tho
 now I try to implement github in kate. idfk how to do it, but I try to solve this problem, lol
 - wish me luck
 - pls ;-;
+this is a change for my documentation.
